@@ -1,0 +1,6 @@
+Starting WechatOrderingApplicationTests on Mrchen with PID 616 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 3.075 seconds (JVM running for 4.814)
+info.......
+Shutting down ExecutorService 'applicationTaskExecutor'

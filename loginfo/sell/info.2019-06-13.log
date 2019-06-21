@@ -1,0 +1,182 @@
+Starting WechatOrderingApplication on Mrchen with PID 8424 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Starting WechatOrderingApplicationTests on Mrchen with PID 14256 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.clt.wechatordering]' package. Please check your configuration.
+Tomcat initialized with port(s): 8888 (http)
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 849 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+No MyBatis mapper was found in '[com.clt.wechatordering]' package. Please check your configuration.
+LiveReload server is running on port 35729
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 1.38 seconds (JVM running for 3890.871)
+Condition evaluation unchanged
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 3.288 seconds (JVM running for 4.197)
+info.......
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplication on Mrchen with PID 5544 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1053 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 2.189 seconds (JVM running for 2.887)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+{dataSource-1} inited
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
+Starting WechatOrderingApplication on Mrchen with PID 5544 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 320 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.502 seconds (JVM running for 61.16)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+{dataSource-2} inited
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-2} closed
+Starting WechatOrderingApplication on Mrchen with PID 5544 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 223 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.418 seconds (JVM running for 467.685)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 5 ms
+{dataSource-3} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-3} closed
+Starting WechatOrderingApplication on Mrchen with PID 5544 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 244 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.427 seconds (JVM running for 519.98)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+{dataSource-4} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-4} closed
+Starting WechatOrderingApplication on Mrchen with PID 5544 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+No MyBatis mapper was found in '[com.clt.wechatordering]' package. Please check your configuration.
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 499 ms
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'productCategoryController': Unsatisfied dependency expressed through field 'productCategoryService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ProductCategoryService': Unsatisfied dependency expressed through field 'productCategoryMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.clt.wechatordering.mapper.ProductCategoryMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting ProductCategoryServiceImplTest on Mrchen with PID 8116 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryServiceImplTest in 3.294 seconds (JVM running for 4.17)
+{dataSource-1} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+org.apache.ibatis.binding.MapperProxy@4d95a72e
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
+Starting ProductCategoryServiceImplTest on Mrchen with PID 13772 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryServiceImplTest in 3.224 seconds (JVM running for 4.081)
+{dataSource-1} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+org.apache.ibatis.binding.MapperProxy@4d95a72e
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
+Starting ProductCategoryServiceImplTest on Mrchen with PID 2100 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryServiceImplTest in 3.386 seconds (JVM running for 4.223)
+{dataSource-1} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+org.apache.ibatis.binding.MapperProxy@77b919a3
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
+Starting ProductCategoryServiceImplTest on Mrchen with PID 15844 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started ProductCategoryServiceImplTest in 3.255 seconds (JVM running for 4.127)
+{dataSource-1} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
