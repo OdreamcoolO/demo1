@@ -1,0 +1,182 @@
+Starting WechatOrderingApplicationTests on Mrchen with PID 1576 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 4.141 seconds (JVM running for 6.627)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplicationTests on Mrchen with PID 8404 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 3.481 seconds (JVM running for 4.551)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplicationTests on Mrchen with PID 17196 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 4.708 seconds (JVM running for 5.613)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplicationTests on Mrchen with PID 7336 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'tomcatServletWebServerFactory' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration$EmbeddedTomcat.class]: Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: ContextPath must start with '/' and not end with '/'
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting WechatOrderingApplicationTests on Mrchen with PID 16248 (started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Initializing ExecutorService 'applicationTaskExecutor'
+Started WechatOrderingApplicationTests in 3.437 seconds (JVM running for 4.373)
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1417 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 2.614 seconds (JVM running for 3.412)
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+{dataSource-1} inited
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-1} closed
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 357 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.553 seconds (JVM running for 84.17)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 8 ms
+{dataSource-2} inited
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+==>  Preparing: select * from product_category where category_id = ? 
+==> Parameters: 1(Integer)
+<==      Total: 1
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-2} closed
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'tomcatServletWebServerFactory' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/ServletWebServerFactoryConfiguration$EmbeddedTomcat.class]: Initialization of bean failed; nested exception is java.lang.IllegalArgumentException: ContextPath must start with '/' and not end with '/'
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 297 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.513 seconds (JVM running for 326.144)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 7 ms
+Shutting down ExecutorService 'applicationTaskExecutor'
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 290 ms
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'productCategoryController': Unsatisfied dependency expressed through field 'productCategoryService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.clt.wechatordering.sevice.ProductCategoryService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 326 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.568 seconds (JVM running for 1097.593)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 3 ms
+{dataSource-3} inited
+==>  Preparing: select * from product_category 
+==> Parameters: 
+<==      Total: 2
+Shutting down ExecutorService 'applicationTaskExecutor'
+{dataSource-3} closed
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 256 ms
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'orderDetailController': Unsatisfied dependency expressed through field 'orderDetailService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.clt.wechatordering.sevice.OrderDetailService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+Stopping service [Tomcat]
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+Starting WechatOrderingApplication on Mrchen with PID 9820 (F:\mytest\wechat-ordering\target\classes started by Mrchen in F:\mytest\wechat-ordering)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8888 (http)
+Initializing ProtocolHandler ["http-nio-8888"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.19]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 251 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+LiveReload server is running on port 35729
+Starting ProtocolHandler ["http-nio-8888"]
+Tomcat started on port(s): 8888 (http) with context path ''
+Started WechatOrderingApplication in 0.613 seconds (JVM running for 2015.098)
+Condition evaluation unchanged
+Initializing Spring DispatcherServlet 'dispatcherServlet'
+Initializing Servlet 'dispatcherServlet'
+Completed initialization in 6 ms
+{dataSource-4} inited
+==>  Preparing: select * from order_detail 
+==> Parameters: 
+<==      Total: 2
+==>  Preparing: select * from order_detail where detail_id = ?; 
+==> Parameters: 1(Integer)
+<==      Total: 1

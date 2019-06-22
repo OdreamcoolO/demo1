@@ -23,7 +23,7 @@ public class ProductCategoryServiceImplTest {
     ProductCategoryMapper productCategoryMapper;
     @Test
     public void findById() {
-        ProductCategory productCategory = productCategoryMapper.finaById(1);
+        ProductCategory productCategory = productCategoryMapper.findById(1);
         Assert.assertEquals(new Integer(1),productCategory.getCategoryId());
     }
 

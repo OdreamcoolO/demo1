@@ -6,6 +6,8 @@ import com.clt.wechatordering.sevice.ProductCategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 /**
  * @ Author   ：clt.
  * @ Date     ：Created in 14:43 2019/6/13
@@ -17,6 +19,11 @@ public class ProductCategoryServiceImpl implements ProductCategoryService {
     private ProductCategoryMapper productCategoryMapper;
     @Override
     public ProductCategory findById(Integer id) {
-        return productCategoryMapper.finaById(id);
+        return productCategoryMapper.findById(id);
+    }
+
+    @Override
+    public List<ProductCategory> findAll() {
+        return productCategoryMapper.findAll();
     }
 }

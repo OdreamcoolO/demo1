@@ -1,13 +1,13 @@
 package com.clt.wechatordering;
 
 import lombok.extern.slf4j.Slf4j;
-import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
+
+import java.util.PriorityQueue;
+import java.util.Queue;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -28,5 +28,15 @@ public class WechatOrderingApplicationTests {
 //        Assert.assertEquals();
 //        Assert.assertNotEquals();
 
+    }
+
+    @Test
+    public void test(){
+        Queue<Integer> queue = new PriorityQueue<>();
+        queue.add(1);
+        queue.add(2);
+        System.out.println(queue.size());
+        System.out.println(queue.poll());
+        System.out.println(queue.peek());
     }
 }
